@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
@@ -18,16 +18,13 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming Skills"
-  description = """Experienced in **Python**.<br/>
-  Familiar with C++, ROOT, Matlab, Mathematica."""
+  description = "Python, C++, Matlab, Mathematica."
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Advanced Physics Courses"
-  description = """
-  All advanced undergraduate-level courses.<br/> Also graduate-level courses:<br/> Advanced Quantum Mechanics, Group Theory, Quantum Information.
-  """ 
+  name = "Physics Background"
+  description = "" 
 
 [[feature]]
   icon = "server"

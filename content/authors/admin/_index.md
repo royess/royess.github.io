@@ -18,24 +18,22 @@ organizations:
   url: "http://www.phy.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational physics, machine learning. And I have experience in studying phenomena in heavy ions collisions, which is a typically *complex system*. (Now looking for PhD positions in 2021.)
+bio: My research interests include quantum science and its application to information processing and computing.
 
 interests:
-- High energy nuclear physics
-- Complex system and quantum physics
+- Quantum information and quantum computing
+- Quantum many-body system
 - Machine learning
 
 education:
   courses:
-  #- course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: School of Physics, Peking University
-    year: Ongoing
+  - course: BSc in Physics and CS
+    institution: Peking University
+    year: 2017-now
+  
+  - course: PhD in Physics
+    institution: Tsinghua University
+    year: 2021-future
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,12 +68,4 @@ email: "yanyx1999@pku.edu.cn"
 #- Visitors
 ---
 
-In modern physics, with more and more fundamental laws of nature accurately obtained, a new chanllge is how to study a complex system, i.e., a many-body problem.
-
-"More is different" by P. W. Anderson is a famous comment on complex system, which indicates new physics will *emerge* with the complexity growing up. To study a complex systems, we cannot directly apply first-principle laws at least due to numerical limitations. Instead, phenomenological model from experiments is workable.
-
-My interest is the physics in complex systems. For instance, my on-going work is to study interactions between jets and hydrodynamic flows in QGP.
-
-Typically, computer simulation and statistical analysis are what we use in such problems. And recently, we find machine learning methods can sometimes give inspirations as well. But the disadvantage is clear: the results are often hard to interpret and thus unconvincing. So I'm also trying to find ways to solve complex-system problems with machine learning with absence of the interpretability difficulty.
-
-<!--- TODO:Make it short! --->
+I'm a newcomer to quantum information field. And I'm interested in the interaction between quantum many-body system and quantum information processing. 
