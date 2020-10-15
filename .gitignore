@@ -3,6 +3,7 @@
 
 # Hugo
 resources/
+public/
 
 # vscode
 .vscode/
